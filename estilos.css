@@ -1,0 +1,28 @@
+*{
+    margin:0;
+    box-sizing: border-box;
+}
+.caja1{
+    background-color: lightblue;
+    color: navy;
+    width: 200px;
+    height: 100px;
+    text-align: center;
+    border: 5px solid navy;
+    margin: 20px;
+    padding: 10px;
+}
+
+.caja2{
+    background-color: rgb(179, 173, 230);
+    color: rgb(101, 101, 246);
+    width: 200px;
+    height: 100px;
+    text-align: center;
+    border: 5px solid rgb(141, 141, 255);
+   margin-top: 200px;
+   margin-left: 100px;
+   margin-bottom: 40px;
+    margin: 5px;
+    padding: 10px;
+}
